@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm [Tu Nombre Aquí]
+  Hi, I'm Emanuel Luna
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -20,8 +20,6 @@
 💡 &nbsp;Apasionado por la tecnología y el desarrollo de soluciones útiles para la vida diaria.\
 🎓 &nbsp;Estudiante de Ingeniería de Sistemas, actualmente profundizando en desarrollo web y backend.\
 🌱 &nbsp;Aprendiendo sobre frameworks como Spring Boot y herramientas de automatización con Python.\
-💬 &nbsp;Disponible para colaborar en proyectos interesantes o resolver dudas técnicas.\
-✉️ &nbsp;Puedes escribirme a [tu_email@correo.com] y te responderé tan pronto como pueda.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -60,17 +58,9 @@
 
 <p align="center">
 <a href="https://github.com/[TU_USUARIO]">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EM-DEV03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EM-DEV03&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
-
-### 🤝🏻 &nbsp;Conecta Conmigo
-
-<p align="center">
-<a href="https://www.linkedin.com/in/[TU_USUARIO]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:[tu_email@correo.com]"><img src="https://img.shields.io/badge/-Correo-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/[TU_USUARIO]"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 -----
