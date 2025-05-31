@@ -49,12 +49,12 @@
 
 ### 📂 &nbsp;Repositorios Destacados
 
-- 🔐 **[Sistema_Acceso](https://github.com/EM-DEV03/Sistema_Acceso)** – Proyecto en Python con interfaz gráfica para gestionar el acceso de estudiantes y visitantes.
-- 👥 **[Sistema-de-Gestion-de-Usuarios](https://github.com/EM-DEV03/Sistema-de-Gestion-de-Usuarios)** – Aplicación de consola moderna para administrar usuarios con sesiones seguras.
-- 🧠 **[Juego-de-Memoria](https://github.com/EM-DEV03/Juego-de-Memoria)** – *Simón Dice* desarrollado con JavaScript, HTML, CSS, Node.js y Express.
-- 📰 **[Sucre-News](https://github.com/EM-DEV03/Sucre-News)** – Plataforma de noticias creada con HTML, CSS, Bootstrap 5 y JavaScript.
-- 📇 **[crud-php-personas](https://github.com/EM-DEV03/crud-php-personas)** – CRUD en PHP y MySQL para gestionar registros de personas.
-- 🎮 **[Java-Juego-Ahorcado](https://github.com/EM-DEV03/Java-Juego-Ahorcado)** – Juego del ahorcado en Java, con interfaz de texto.
+- 🔐 **[Sistema de Acceso](https://github.com/EM-DEV03/Sistema_Acceso)** – Proyecto en Python con interfaz gráfica para gestionar el acceso de estudiantes y visitantes.
+- 👥 **[Gestion de Usuarios](https://github.com/EM-DEV03/Sistema-de-Gestion-de-Usuarios)** – Aplicación de consola moderna para administrar usuarios con sesiones seguras.
+- 🧠 **[Juego de Memoria](https://github.com/EM-DEV03/Juego-de-Memoria)** – *Simón Dice* desarrollado con JavaScript, HTML, CSS, Node.js y Express.
+- 📰 **[Sucre News](https://github.com/EM-DEV03/Sucre-News)** – Plataforma de noticias creada con HTML, CSS, Bootstrap 5 y JavaScript.
+- 📇 **[Crud Personas](https://github.com/EM-DEV03/crud-php-personas)** – CRUD en PHP y MySQL para gestionar registros de personas.
+- 🎮 **[Ahorcado Java](https://github.com/EM-DEV03/Java-Juego-Ahorcado)** – Juego del ahorcado en Java, con interfaz de texto.
 
 
 ### 📊 Estadísticas de GitHub
