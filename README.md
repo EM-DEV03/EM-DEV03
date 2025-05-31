@@ -14,7 +14,9 @@
 </p>
 
  <p align="center">
-  <img src="https://img.shields.io/badge/127.0.0.1-No%20place%20like%20home-black?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/There%27s%20no%20place%20like%20home-black?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/127.0.0.1-grey?style=for-the-badge&logoColor=white" />
+
 </p>
 
 -----
