@@ -1,60 +1,76 @@
-# 👨‍💻 Bienvenido a mi perfil de GitHub
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-Soy un desarrollador en formación con interés en el desarrollo **backend**, **full stack** y soluciones prácticas que resuelvan problemas reales. Me enfoco en crear aplicaciones robustas, seguras y bien estructuradas, aplicando buenas prácticas de programación, control de versiones y trabajo modular.
+<h3 align="center">
+  Hi, I'm [Tu Nombre Aquí]
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
----
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20de%20Software;Apasionado%20por%20la%20tecnolog%C3%ADa;Siempre%20aprendiendo%20algo%20nuevo;Explora%20mis%20repositorios%20%F0%9F%91%80;Cont%C3%A1ctame%20si%20necesitas%20ayuda%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
 
-## 🧠 Tecnologías y herramientas
+<p align="center">
+  <a href="https://github.com/[TU_USUARIO]" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=[TU_USUARIO].[TU_USUARIO]"></a>
+</p>
 
-- **Lenguajes de programación**: Python, JavaScript, Java, PHP
-- **Backend y servidores**: Node.js, Express.js, XAMPP
-- **Frontend**: HTML5, CSS3, Bootstrap 4/5
-- **Bases de datos**: MongoDB, MySQL, SQLite
-- **Entornos de desarrollo**: Visual Studio Code, IntelliJ IDEA
-- **Control de versiones**: Git, GitHub
+### 👨🏻‍💻 &nbsp;Sobre Mí
 
----
+💡 &nbsp;Apasionado por la tecnología y el desarrollo de soluciones útiles para la vida diaria.\
+🎓 &nbsp;Estudiante de Ingeniería de Sistemas, actualmente profundizando en desarrollo web y backend.\
+🌱 &nbsp;Aprendiendo sobre frameworks como Spring Boot y herramientas de automatización con Python.\
+💬 &nbsp;Disponible para colaborar en proyectos interesantes o resolver dudas técnicas.\
+✉️ &nbsp;Puedes escribirme a [tu_email@correo.com] y te responderé tan pronto como pueda.\
 
-## 🎓 Actualmente en formación
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-Estoy ampliando mis conocimientos en:
+### 🛠 &nbsp;Tech Stack
 
-- Desarrollo backend con Node.js y Express
-- Bases de datos relacionales y no relacionales
-- Pruebas, seguridad y documentación de APIs REST
-- Desarrollo de interfaces interactivas y responsivas
-- Automatización de tareas con Python
-- Buenas prácticas en Git y colaboración en proyectos
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea)&nbsp;
+![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp)
 
----
+### 📂 &nbsp;Repositorios Destacados
 
-## 📂 Repositorios destacados
+- **Sistema_Acceso** - Proyecto en Python con interfaz gráfica para gestionar el acceso de estudiantes y visitantes.  
+- **Sistema-de-Gestion-de-Usuarios** - App de consola moderna para administrar usuarios con sesiones seguras.  
+- **Juego-de-Memoria** - Simón Dice usando JavaScript, HTML, CSS, Node.js y Express.  
+- **TE-AMO-Matrix-Effect** - Efecto Matrix romántico con "TE AMO" en rosado neón.  
+- **Sucre-News** - Plataforma de noticias con HTML, CSS, Bootstrap 5 y JS.  
+- **crud-php-personas** - CRUD en PHP + MySQL para gestionar registros de personas.  
+- **Pagina_Web** - Sitio web simple para tienda de ropa.  
+- **Java-Juego-Ahorcado** - Juego del ahorcado en Java con interfaz de texto.
 
-| Nombre del proyecto | Descripción | Tecnologías principales |
-|---------------------|-------------|--------------------------|
-| [**Sistema_Acceso**](https://github.com/tuusuario/Sistema_Acceso) | Proyecto en Python con interfaz gráfica para gestionar el acceso de estudiantes y visitantes a un campus o institución. | Python |
-| [**Sistema-de-Gestion-de-Usuarios**](https://github.com/tuusuario/Sistema-de-Gestion-de-Usuarios) | Aplicación de consola moderna y segura para administrar usuarios, con control de sesiones e interfaz enriquecida. | Python |
-| [**Juego-de-Memoria**](https://github.com/tuusuario/Juego-de-Memoria) | Versión web del clásico "Simón Dice", desarrollado con JS, HTML, CSS y backend en Node.js + Express. | JavaScript, Node.js |
-| [**TE-AMO-Matrix-Effect**](https://github.com/tuusuario/TE-AMO-Matrix-Effect) | Proyecto visual e interactivo inspirado en el efecto "Matrix" con un toque romántico. | HTML, CSS, JS |
-| [**Sucre-News**](https://github.com/tuusuario/Sucre-News) | Plataforma de noticias donde los usuarios pueden crear, editar y publicar contenidos fácilmente. | HTML, CSS, JS, Bootstrap |
-| [**crud-php-personas**](https://github.com/tuusuario/crud-php-personas) | Aplicación CRUD en PHP y MySQL para la gestión de personas: nombre, apellido, ciudad, contacto. | PHP, MySQL |
-| [**Pagina_Web**](https://github.com/tuusuario/Pagina_Web) | Página web sencilla desarrollada como prueba de aprendizaje para una tienda de ropa. | HTML, CSS |
-| [**Java-Juego-Ahorcado**](https://github.com/tuusuario/Java-Juego-Ahorcado) | Implementación del clásico juego del Ahorcado en Java con lógica orientada a objetos. | Java |
+### ⚙️ &nbsp;GitHub Analytics
 
----
+<p align="center">
+<a href="https://github.com/[TU_USUARIO]">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-## 🎯 Objetivo profesional
+### 🤝🏻 &nbsp;Conecta Conmigo
 
-Mi objetivo es integrarme a un equipo de trabajo como **desarrollador backend o full stack junior**, donde pueda aplicar y seguir perfeccionando mis habilidades técnicas, aportar valor a los proyectos y continuar aprendiendo nuevas tecnologías.
+<p align="center">
+<a href="https://www.linkedin.com/in/[TU_USUARIO]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:[tu_email@correo.com]"><img src="https://img.shields.io/badge/-Correo-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/[TU_USUARIO]"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
----
-
-## 📫 Contacto
-
-- 📧 Correo: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- 🌐 Portafolio (si tienes): [tuportafolio.com](https://tuportafolio.com)
-
----
-
-> *Gracias por visitar mi perfil. Estoy abierto a colaborar en proyectos, contribuir en repositorios o asumir nuevos retos profesionales.*
+-----
