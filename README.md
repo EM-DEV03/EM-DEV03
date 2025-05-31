@@ -12,8 +12,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20backend%20en%20formaci%C3%B3n.;La%20vida%20es%20un%20constante%20aprendizaje.;Siempre%20mejorando.&font=Fira%20Code&center=true&width=440&height=45" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/EM-DEV03" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=EM-DEV03.EM-DEV03"></a>
+
+ <p align="center">
+  <img src="https://img.shields.io/badge/127.0.0.1-No%20place%20like%20home-black?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eat--Sleep--Code--Repeat-fff000?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <img src="https://img.shields.io/badge/EM_DEV-Always%20Learning-yellow?style=for-the-badge&logo=pencil&logoColor=black" />
 </p>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
