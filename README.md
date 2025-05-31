@@ -3,23 +3,24 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Emanuel Luna
+  Hola, Soy Emanuel (EM_DEV)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20de%20Software;Apasionado%20por%20la%20tecnolog%C3%ADa;Siempre%20aprendiendo%20algo%20nuevo;Explora%20mis%20repositorios%20%F0%9F%91%80;Cont%C3%A1ctame%20si%20necesitas%20ayuda%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20backend%20en%20formaci%C3%B3n.;La%20vida%20es%20un%20constante%20aprendizaje.;Siempre%20mejorando.&font=Fira%20Code&center=true&width=440&height=45" />
+  </a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/[TU_USUARIO]" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=[TU_USUARIO].[TU_USUARIO]"></a>
+  <a href="https://github.com/EM-DEV03" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=EM-DEV03.EM-DEV03"></a>
 </p>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
 💡 &nbsp;Apasionado por la tecnología y el desarrollo de soluciones útiles para la vida diaria.\
-🎓 &nbsp;Estudiante de Ingeniería de Sistemas, actualmente profundizando en desarrollo web y backend.\
-🌱 &nbsp;Aprendiendo sobre frameworks como Spring Boot y herramientas de automatización con Python.\
+🎓 &nbsp;Estudiante de Ingeniería de Sistemas, enfocado en desarrollo backend con Python, Java y JavaScript.\
+🌱 &nbsp;Aprendiendo programación backend usando frameworks como Node.js, Express y Flask para crear aplicaciones robustas y escalables.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -48,17 +49,15 @@
 - **Sistema_Acceso** - Proyecto en Python con interfaz gráfica para gestionar el acceso de estudiantes y visitantes.  
 - **Sistema-de-Gestion-de-Usuarios** - App de consola moderna para administrar usuarios con sesiones seguras.  
 - **Juego-de-Memoria** - Simón Dice usando JavaScript, HTML, CSS, Node.js y Express.  
-- **TE-AMO-Matrix-Effect** - Efecto Matrix romántico con "TE AMO" en rosado neón.  
 - **Sucre-News** - Plataforma de noticias con HTML, CSS, Bootstrap 5 y JS.  
-- **crud-php-personas** - CRUD en PHP + MySQL para gestionar registros de personas.  
-- **Pagina_Web** - Sitio web simple para tienda de ropa.  
+- **crud-php-personas** - CRUD en PHP + MySQL para gestionar registros de personas. 
 - **Java-Juego-Ahorcado** - Juego del ahorcado en Java con interfaz de texto.
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-<a href="https://github.com/[TU_USUARIO]">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EM-DEV03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/EM-DEV03">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfaizanhaidar&theme=algolia" alt="muhammadfaizanhaidar"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EM-DEV03&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
