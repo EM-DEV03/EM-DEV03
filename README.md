@@ -3,8 +3,8 @@
 </div>
 
 <h3 align="center">
-  Hola, Soy Emanuel (EM_DEV)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , Soy Emanuel Luna
+
 </h3>
 
 <p align="center">
@@ -15,8 +15,6 @@
 
  <p align="center">
   <img src="https://img.shields.io/badge/127.0.0.1-No%20place%20like%20home-black?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eat--Sleep--Code--Repeat-fff000?style=for-the-badge&logo=codeforces&logoColor=black" />
-  <img src="https://img.shields.io/badge/EM_DEV-Always%20Learning-yellow?style=for-the-badge&logo=pencil&logoColor=black" />
 </p>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
@@ -58,11 +56,13 @@
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-<a href="https://github.com/EM-DEV03">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfaizanhaidar&theme=algolia" alt="muhammadfaizanhaidar"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EM-DEV03&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://github.com/EM-DEV03">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfaizanhaidar&theme=algolia" alt="muhammadfaizanhaidar" />
+  </a>
+  <a href="https://github.com/EM-DEV03">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EM-DEV03&layout=compact&langs_count=8&theme=algolia" />
+  </a>
+</div>
 
 -----
