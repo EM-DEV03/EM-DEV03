@@ -51,7 +51,7 @@
 
 ### 📂 &nbsp;Repositorios Destacados
 
-- 🔐 **[Sistema de Acceso](https://github.com/EM-DEV03/Sistema_Acceso)** – Proyecto en Python con interfaz gráfica para gestionar el acceso de estudiantes y visitantes.
+- 🔐 **[Sistema de Acceso](https://github.com/EM-DEV03/Sistema-Acceso-Universitario)** – Proyecto en Python con interfaz gráfica para gestionar el acceso de estudiantes y visitantes.
 - 👥 **[Gestion de Usuarios](https://github.com/EM-DEV03/Sistema-de-Gestion-de-Usuarios)** – Aplicación de consola moderna para administrar usuarios con sesiones seguras.
 - 🧠 **[Juego de Memoria](https://github.com/EM-DEV03/Juego-de-Memoria)** – *Simón Dice* desarrollado con JavaScript, HTML, CSS, Node.js y Express.
 - 📰 **[Sucre News](https://github.com/EM-DEV03/Sucre-News)** – Plataforma de noticias creada con HTML, CSS, Bootstrap 5 y JavaScript.
