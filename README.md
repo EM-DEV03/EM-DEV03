@@ -51,13 +51,12 @@
 
 ### 📂 &nbsp;Repositorios Destacados
 
-- 🔐 **[Sistema de Acceso](https://github.com/EM-DEV03/Sistema-Acceso-Universitario)** – Proyecto en Python con interfaz gráfica para gestionar el acceso de estudiantes y visitantes.
-- 👥 **[Gestion de Usuarios](https://github.com/EM-DEV03/Sistema-de-Gestion-de-Usuarios)** – Aplicación de consola moderna para administrar usuarios con sesiones seguras.
-- 🧠 **[Juego de Memoria](https://github.com/EM-DEV03/Juego-de-Memoria)** – *Simón Dice* desarrollado con JavaScript, HTML, CSS, Node.js y Express.
-- 📰 **[Sucre News](https://github.com/EM-DEV03/Sucre-News)** – Plataforma de noticias creada con HTML, CSS, Bootstrap 5 y JavaScript.
-- 📇 **[Crud Personas](https://github.com/EM-DEV03/crud-php-personas)** – CRUD en PHP y MySQL para gestionar registros de personas.
-- 🎮 **[Ahorcado Java](https://github.com/EM-DEV03/Java-Juego-Ahorcado)** – Juego del ahorcado en Java, con interfaz de texto.
-
+- 🔐 **[Sistema de Acceso Universitario](https://github.com/EM-DEV03/Sistema-Acceso-Universitario):** Aplicación web para control de acceso en entornos educativos.
+- 👥 **[Sistema de Gestión de Usuarios](https://github.com/EM-DEV03/Sistema-de-Gestion-de-Usuarios):** Consola en Python para administración segura de usuarios.
+- 🧠 **[Juego de Memoria (Simón Dice)](https://github.com/EM-DEV03/Juego-de-Memoria):** Juego lúdico usando JavaScript, Node.js y Express.
+- 📰 **[Sucre News](https://github.com/EM-DEV03/Sucre-News):** Plataforma de noticias con diseño moderno y responsivo.
+- 🖥 **[Aula Inclusiva](https://github.com/EM-DEV03/aula-inclusiva):** Herramienta educativa para eliminar barreras en contextos escolares.
+- 🌐 **[Conexiones Campo (Website)](https://github.com/EM-DEV03/conexiones-campo-website):** Web de servicios rurales con mapa interactivo y prueba de velocidad.
 
 ### 📊 Estadísticas de GitHub
 
