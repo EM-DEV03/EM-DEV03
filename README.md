@@ -64,7 +64,7 @@
 <p align="center">
 <a href="https://github.com/EM-DEV03">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EM-DEV03&layout=compact&langs_count=8&theme=algolia"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfaizanhaidar&theme=algolia" alt="muhammadfaizanhaidar"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EM-DEV03&theme=algolia" alt="EM-DEV03"/>
 </a>
 </p>
 
