@@ -61,10 +61,14 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-<a href="https://github.com/EM-DEV03">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EM-DEV03&layout=compact&langs_count=8&theme=algolia"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EM-DEV03&theme=algolia" alt="EM-DEV03"/>
-</a>
+  <a href="https://github.com/EM-DEV03">
+     <img src="https://github-readme-stats.vercel.app/api?username=EM-DEV03&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EM-DEV03&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
------
+<div align="center">
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=500&type=waving&fontColor=fefefe"/>
+</div>
+
